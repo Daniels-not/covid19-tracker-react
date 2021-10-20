@@ -1,0 +1,19 @@
+.container {
+    margin: 3.125rem auto;
+}
+
+.card {
+    margin: 0 2% !important;
+}
+
+.infected {
+    border-bottom: 10px solid hsl(252, 77%, 20%);
+}
+
+.recovered {
+    border-bottom: 10px solid hsl(184, 74%, 44%);
+}
+
+.death {
+    border-bottom: 10px solid hsl(340, 55%, 34%);
+}
